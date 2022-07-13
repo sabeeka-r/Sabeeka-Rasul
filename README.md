@@ -5,15 +5,15 @@ Home Challenge
 
 **Exploratory testing charters**
 
-Purpose: To test out the Monefy application on iOS to find out issues that can be faced by the users. 
+**Purpose:** To test out the Monefy application on iOS to find out issues that can be faced by the users. 
 
-Date when the activity is carried out: 12-07-2022
+**Date when the activity is carried out:** 12-07-2022
 
-Duration of this activity: 2 hours 
+**Duration of this activity:** 2 hours 
 
-Scope of testing: All flows of the application which are available free for the users including the user experience. 
+**Scope of testing:** All flows of the application which are available free for the users including the user experience. 
 
-Application components tested: Onboarding flow, dashboard, categories, filters, accounts, settings, adding expense & income flow. 
+**Application components tested:** Onboarding flow, dashboard, categories, filters, accounts, settings, adding expense & income flow. 
 
 **Findings and bugs:**
 
@@ -44,7 +44,7 @@ I explored the basic functionality first so that I could verify that the applica
 
 
 
-**Time planned for each charter: ******
+**Time planned for each charter: **
 
 I divided the time equally for both charters and spent 1 hour each. 
 
