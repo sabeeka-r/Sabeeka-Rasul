@@ -38,8 +38,9 @@ Following were the bugs found in the application:
 **Prioritisation of the charters**
 
 The order in which I prioritized the charters: 
-P[0] Testing the entire application functionally. 
-P[1] Testing the entire application with respect to user experience. 
+
+- P[0] Testing the entire application functionally. 
+- P[1] Testing the entire application with respect to user experience. 
 I explored the basic functionality first so that I could verify that the application does what it is supposed to do. 
 
 
